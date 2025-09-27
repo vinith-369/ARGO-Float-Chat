@@ -53,4 +53,4 @@ Node.js 16+
 PostgreSQL 12+
 Google Gemini API Key
 Docker (optional, for DB setup)
-# Float_Chat
+
