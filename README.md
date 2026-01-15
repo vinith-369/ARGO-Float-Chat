@@ -303,17 +303,3 @@ result = run_agent_query("Show me salinity data for float 1902677 in 2020")
 # Complex queries
 "Get floats in Arabian Sea with salinity above 35 and temperature below 20"
 ```
-
----
-
-## 📄 License
-
-This project is for oceanographic research and data analysis purposes.
-
----
-
-## 🙏 Acknowledgments
-
-- [Argo Program](https://argo.ucsd.edu/) - Global array of ocean profiling floats
-- [Google Generative AI](https://ai.google.dev/) - Gemini LLM
-- [LangChain](https://www.langchain.com/) - LLM application framework
